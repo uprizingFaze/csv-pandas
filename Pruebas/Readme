@@ -1,0 +1,12 @@
+Readme
+
+Propiedades de una serie:
+
+    .size: Devuelve número de elementos de la serie
+
+    .index: Devuelve una lista con los nombres de las filas del DataFrame
+
+    .dtype: Devuelve el tipo de datos de los elementos de la serie
+
+Acceder a un serie
+    
